@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 I’m **Devansh Rawat**, a **3rd-year Computer Science student (B.Tech CSE ‘27)** passionate about building high-performance applications.  
-I enjoy working on **JavaScript**, **TypeScript**, **Rust**, **C++**, and **Haskell**, focusing on **clean architecture** and **strong typing**.  
+I enjoy working on **Java**, **JavaScript**, **TypeScript**, **Rust**, **C++**, and **Haskell**, focusing on **clean architecture** and **strong typing**.  
 I’ve been exploring how **functional programming** can make web systems safer and more reliable.  
 
 - 💡 I love solving real-world engineering problems.  
