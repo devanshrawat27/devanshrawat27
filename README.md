@@ -47,7 +47,4 @@ I’ve been exploring how **functional programming** can make web systems safer 
   <a href="mailto:devanshdevr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
 
-### 🧾 Resume  
-📄 [Download My Resume (PDF)](./devansh_resume_zscal.pdf)
