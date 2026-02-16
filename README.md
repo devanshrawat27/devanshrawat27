@@ -1,61 +1,65 @@
 <div align="center">
 
-# 👋 Hey, I'm Devansh Rawat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Devansh%20Rawat&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+Scalable+%26+Innovative+Solutions;Web3+%7C+Blockchain+%7C+Cloud+Enthusiast;Microsoft+SEFA+2025+%F0%9F%8F%86" alt="Typing SVG" />
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;Web3+Enthusiast+%E2%9B%93;Microsoft+SEFA+2025+%F0%9F%8F%86" alt="Typing SVG" />
+</h3>
 
-<br/>
-
-[![Microsoft SEFA 2025](https://img.shields.io/badge/🏆_Microsoft-SEFA_2025-0078D4?style=for-the-badge&labelColor=0078D4&color=00BCF2)](https://www.microsoft.com)
-[![B.Tech CSE '27](https://img.shields.io/badge/🎓_B.Tech-CSE_'27-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=EE5A52)](https://gehu.ac.in)
-[![Hackathon Winner](https://img.shields.io/badge/🚀_Hackathon-Participant-4ECB71?style=for-the-badge&labelColor=4ECB71&color=45B866)]()
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Microsoft SEFA 2025](https://img.shields.io/badge/🏆%20Microsoft%20SEFA-2025-0078D4?style=for-the-badge&labelColor=0078D4)](https://www.microsoft.com)
+[![B.Tech CSE](https://img.shields.io/badge/🎓%20B.Tech%20CSE-2027-FF6B6B?style=for-the-badge&labelColor=FF6B6B)]()
+[![India](https://img.shields.io/badge/📍%20Based%20in-India-138808?style=for-the-badge&labelColor=138808)]()
 
 </div>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-```javascript
+<div align="center">
+
+## 💫 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
 const devansh = {
-  pronouns: "He" | "Him",
-  location: "India 🇮🇳",
-  education: "B.Tech CSE '27",
-  university: "Graphic Era Hill University",
-  
-  code: {
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "C"],
-    frameworks: ["React", "Next.js", "Node.js", "Express", "Flask"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    technologies: ["WebRTC", "Socket.io", "GraphQL", "REST APIs"]
-  },
-  
-  specialization: {
-    fullStack: ["MERN", "PERN", "Next.js + PostgreSQL"],
-    aiml: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    web3: ["Ethereum", "Solidity", "Web3.js", "Smart Contracts"],
-    cloud: ["AWS", "Docker", "CI/CD"]
-  },
-  
-  currentFocus: ["System Design", "Microservices", "Web3 Development"],
-  funFact: "I turn ☕ into code!"
+    title: "Full-Stack Developer & AI/ML Engineer",
+    education: "B.Tech CSE '27",
+    university: "Graphic Era Hill University",
+    location: "India 🇮🇳",
+    
+    expertise: {
+        languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Express", "Flask"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        aiml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        web3: ["Ethereum", "Solidity", "Web3.js"]
+    },
+    
+    currentFocus: "Building scalable applications & exploring Web3",
+    achievement: "Microsoft SEFA 2025 🏆"
 };
 ```
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💻 Tech Stack
-
-### 🎯 Programming Languages
+<br/>
 
 <div align="center">
 
+## 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,12 +67,7 @@ const devansh = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-</div>
-
-### 🎨 Frontend Development
-
-<div align="center">
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -76,160 +75,92 @@ const devansh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
-
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</div>
-
-### 🤖 AI/ML & Data Science
-
-<div align="center">
-
+### AI/ML & Web3
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### ⛓️ Web3 & Blockchain
-
-<div align="center">
-
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-2C3E50?style=for-the-badge&logo=ethereum&logoColor=white)
 
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Technologies
-
-<div align="center">
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devanshrawat27&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Devansh Rawat github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshrawat27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=devanshrawat27&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00b3ff&ring=00b4ff&fire=00b3ff&currStreakLabel=00b4ff" alt="GitHub Streak Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=devanshrawat27&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&layout=compact" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshrawat27&bg_color=0d1117&color=00b3ff&line=00b4ff&point=00b3ff&area=true&hide_border=true" />
-</p>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devanshrawat27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devanshrawat27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=devanshrawat27&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshrawat27&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devanshrawat27&theme=github_dark" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshrawat27&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 [ConvoX Meet](https://github.com/devanshrawat27/Convox-Meet)
-
-<a href="https://github.com/devanshrawat27/Convox-Meet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=Convox-Meet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
-
+### 🎥 ConvoX Meet
 **Real-Time Video Conferencing Platform**
 
-- 🎬 **WebRTC** for P2P video/audio
-- 💬 **Live Chat** with Socket.io
-- 📺 **Screen Sharing** capability
-- 🔐 **Secure** room-based meetings
-- ⚡ **Low latency** real-time communication
+WebRTC-based video calling with live chat, screen sharing, and secure P2P connections.
 
-**Stack:** `React` `WebRTC` `Socket.io` `Node.js` `MongoDB`
+**Tech:** React • Node.js • WebRTC • Socket.io
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00b3ff?style=for-the-badge)](https://convox-meetfrontend.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-58A6FF?style=for-the-badge)](https://convox-meetfrontend.onrender.com/)
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/Convox-Meet)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Smart Task Manager](https://github.com/devanshrawat27/Smart-Task-Manager)
+### 🤖 Smart Task Manager
+**AI-Powered System Monitor**
 
-<a href="https://github.com/devanshrawat27/Smart-Task-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=Smart-Task-Manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
+ML-based process monitoring with threat detection, real-time analytics, and security insights.
 
-**AI-Powered System Process Monitor**
+**Tech:** Python • Flask • Scikit-learn • ML
 
-- 🧠 **ML-based** threat detection
-- 📊 **Real-time** process analytics
-- 🛡️ **Security** pattern analysis
-- 📈 **Behavioral** logging system
-- 🎯 **Predictive** anomaly detection
-
-**Stack:** `Python` `Flask` `Scikit-learn` `Pandas` `ML`
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/Smart-Task-Manager)
 
 </td>
 </tr>
@@ -237,40 +168,26 @@ const devansh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [SkillSync Platform](https://github.com/devanshrawat27/SkillSync-Networking-Platform)
-
-<a href="https://github.com/devanshrawat27/SkillSync-Networking-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=SkillSync-Networking-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
-
+### 🔗 SkillSync Platform
 **Professional Networking Platform**
 
-- 👥 **Skill-based** matchmaking
-- 💬 **Real-time** messaging system
-- 🎯 **Smart** recommendations
-- 📱 **Responsive** design
-- 🔒 **Type-safe** architecture
+Skill-based matchmaking with real-time messaging and smart recommendations.
 
-**Stack:** `TypeScript` `Node.js` `PostgreSQL` `React`
+**Tech:** TypeScript • Node.js • PostgreSQL
+
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/SkillSync-Networking-Platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 [Finova Trading](https://github.com/devanshrawat27/Finova-Trading-Platform)
-
-<a href="https://github.com/devanshrawat27/Finova-Trading-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=Finova-Trading-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
-
+### 💰 Finova Trading
 **Trading & Investment Platform**
 
-- 📈 **Real-time** market data
-- 💼 **Portfolio** management
-- 📊 **Trading** analytics
-- 🔐 **Secure** transactions
-- ⚡ **WebSocket** integration
+Real-time market data, portfolio management, and secure trading analytics.
 
-**Stack:** `React` `Node.js` `WebSocket` `MongoDB`
+**Tech:** React • Node.js • WebSocket • MongoDB
+
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/Finova-Trading-Platform)
 
 </td>
 </tr>
@@ -278,40 +195,26 @@ const devansh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [AI Health Assistant](https://github.com/devanshrawat27/AI-Health-Assistant)
-
-<a href="https://github.com/devanshrawat27/AI-Health-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=AI-Health-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
-
+### 🏥 AI Health Assistant
 **ML-Powered Health Advisor**
 
-- 🩺 **Symptom** analysis engine
-- 🤖 **Disease** prediction models
-- 💊 **Treatment** recommendations
-- 📱 **Health** tracking system
-- 🧬 **ML algorithms** integration
+Symptom analysis, disease prediction, and treatment recommendations using ML.
 
-**Stack:** `Python` `TensorFlow` `Flask` `Machine Learning`
+**Tech:** Python • TensorFlow • Flask
+
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/AI-Health-Assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [Project Homigo](https://github.com/devanshrawat27/Project_Homigo)
+### 🏠 Project Homigo
+**Smart Home Management**
 
-<a href="https://github.com/devanshrawat27/Project_Homigo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devanshrawat27&repo=Project_Homigo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff" />
-</a>
+IoT device control with real-time monitoring and automation.
 
-**Smart Home Management System**
+**Tech:** Node.js • EJS • MongoDB
 
-- 🏡 **IoT** device integration
-- 📊 **Real-time** monitoring
-- ⚡ **Automation** rules engine
-- 💡 **Energy** optimization
-- 📱 **Mobile-first** interface
-
-**Stack:** `Node.js` `EJS` `MongoDB` `IoT`
+[![Repo](https://img.shields.io/badge/💻_Repository-1F6FEB?style=for-the-badge)](https://github.com/devanshrawat27/Project_Homigo)
 
 </td>
 </tr>
@@ -319,121 +222,34 @@ const devansh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎯 | Milestone | Description |
-|:---:|:---|:---|
-| 🥇 | **Microsoft SEFA 2025** | Selected for Microsoft Student Engagement Fellowship Academy |
-| 💻 | **18+ Open Source Projects** | Building innovative full-stack solutions across multiple domains |
-| 🏆 | **Hackathon Participant** | Active participation in competitive coding and hackathon events |
-| 🌟 | **Open Source Contributor** | Contributing to various open-source projects and communities |
-| 🎓 | **B.Tech CSE '27** | Computer Science Engineering at Graphic Era Hill University |
-| 📚 | **Competitive Programming** | Regular problem solver on LeetCode, CodeChef, and HackerRank |
-| 🔬 | **Research & Innovation** | Exploring cutting-edge technologies in AI/ML and Web3 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Current Focus
+<br/>
 
 <div align="center">
-
-```diff
-+ 🚀 Building scalable full-stack applications with modern architectures
-+ 🤖 Developing AI/ML models for real-world problem solving
-+ ⛓️ Exploring Web3, Blockchain, and decentralized technologies
-+ 🏗️ Learning advanced system design and microservices patterns
-+ 💻 Contributing to open-source projects and communities
-+ 🏆 Participating in hackathons and competitive programming
-+ 📚 Mastering GraphQL, Kubernetes, and cloud-native development
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-rawat-170649268)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshrawat27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshrawat27)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshdevr@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/devanshrwat/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devanshrwat/)
 [![Codolio](https://img.shields.io/badge/Codolio-4A90E2?style=for-the-badge&logoColor=white)](https://codolio.com/profile/devanshr)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=devanshrawat27&color=00b3ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/devanshrawat27?style=for-the-badge&color=00b3ff&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/devanshrawat27?style=for-the-badge&color=00b3ff&labelColor=0d1117)
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Open for Opportunities
-
-<div align="center">
-
-### 🚀 Available For
-
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-✓-4CAF50?style=for-the-badge)
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML_Engineer-✓-4CAF50?style=for-the-badge)
-![Web3 Developer](https://img.shields.io/badge/Web3_Developer-✓-4CAF50?style=for-the-badge)
-![Freelance Projects](https://img.shields.io/badge/Freelance_Projects-✓-4CAF50?style=for-the-badge)
-![Collaborations](https://img.shields.io/badge/Collaborations-✓-4CAF50?style=for-the-badge)
-![Internships](https://img.shields.io/badge/Internships-✓-4CAF50?style=for-the-badge)
 
 <br/>
 
-### 📧 Let's Talk!
-
-**Email:** devanshdevr@gmail.com
-
-**I'm open to exciting opportunities in Full-Stack Development, AI/ML, Web3, and innovative tech projects!**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-## 💭 Random Dev Quote
+### 💼 Open for Full-Stack Development • AI/ML Engineering • Web3 Projects
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=I+turn+coffee+into+code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Bug+hunter+by+day%2C+bug+creator+by+night+%F0%9F%90%9B;Stack+Overflow+is+my+second+home+%F0%9F%8F%A0;Debugging+is+like+being+a+detective+%F0%9F%95%B5%EF%B8%8F;Code+never+lies%2C+comments+sometimes+do+%F0%9F%98%84" alt="Fun Facts" />
+**📧 devanshdevr@gmail.com**
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🙏 Thanks for Visiting!
-
-![Visitor Count](https://profile-counter.glitch.me/devanshrawat27/count.svg)
-
-**If you like what you see, don't forget to ⭐ star my repositories!**
-
-**Let's build something amazing together! 🚀**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 
 </div>
