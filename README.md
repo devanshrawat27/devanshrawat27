@@ -2,17 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Rawat&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%2FML%20Engineer%20·%20Web3&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Microsoft+SEFA+2025+%F0%9F%8F%86;Building+Scalable+Full-Stack+Apps;Exploring+AI%2FML+%26+Web3;B.Tech+CSE+@+GEHU+2027)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge&labelColor=0f0c29)](https://portfolio-xi-lilac-39.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-rawat-170649268)
@@ -22,32 +14,35 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## 👨‍💻 About Me
 
-```typescript
-const devansh: Developer = {
-  name:        "Devansh Rawat",
-  role:        "Full-Stack Developer & AI/ML Engineer",
-  education:   "B.Tech CSE '27 — Graphic Era Hill University",
-  location:    "India 🇮🇳",
-  achievement: "Microsoft SEFA 2025 🏆",
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-  stack: {
-    languages:  ["TypeScript", "Python", "JavaScript", "Java", "C++"],
-    frontend:   ["React", "Next.js", "TailwindCSS", "Redux"],
-    backend:    ["Node.js", "Express", "FastAPI", "Flask", "GraphQL"],
-    databases:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    ai_ml:      ["TensorFlow", "PyTorch", "Scikit-learn"],
-    web3:       ["Solidity", "Ethereum", "Web3.js"],
-    devops:     ["Docker", "AWS", "Git", "Linux"],
-  },
+🎓 &nbsp;**B.Tech CSE** at Graphic Era Hill University *(2027)*
+🏆 &nbsp;**Microsoft SEFA 2025** — Emerging Software Engineering Talent
+🌍 &nbsp;Based in **India**, building for the world
+🚀 &nbsp;Passionate about **Full-Stack**, **AI/ML** & **Web3**
+💡 &nbsp;Love turning complex problems into elegant solutions
 
-  currentFocus: "Scalable systems · Intelligent applications · Web3",
-  openTo:       "Full-Stack · AI/ML · Web3 roles & collaborations",
-};
-```
+<br/>
+
+**Currently working on:**
+- 🔨 &nbsp;Scalable real-time web applications
+- 🤖 &nbsp;ML-powered intelligent systems
+- ⛓️ &nbsp;Decentralized Web3 integrations
+
+<br/>
+
+**When I'm not coding:**
+- 📖 &nbsp;Reading about emerging tech & AI research
+- 🎯 &nbsp;Solving DSA problems on LeetCode
+- ☕ &nbsp;Fuelled by coffee & curiosity
+
+<br clear="right"/>
 
 ---
 
@@ -55,48 +50,208 @@ const devansh: Developer = {
 
 <div align="center">
 
-### ⚡ Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=ts" width="45"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=js" width="45"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="45"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="45"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=c" width="45"/><br/>
+      <b>C</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="45"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br/>
+      <b>Next.js</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>
+      <b>Tailwind</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redux" width="45"/><br/>
+      <b>Redux</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html" width="45"/><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=css" width="45"/><br/>
+      <b>CSS3</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ⚙️ Backend
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=express" width="45"/><br/>
+      <b>Express</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br/>
+      <b>FastAPI</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=flask" width="45"/><br/>
+      <b>Flask</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45"/><br/>
+      <b>GraphQL</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🗄️ Databases
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="45"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redis" width="45"/><br/>
+      <b>Redis</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45"/><br/>
+      <b>Firebase</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/>
+      <b>TensorFlow</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br/>
+      <b>PyTorch</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Scikit-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40"/><br/>
+      <b>Scikit-learn</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/><br/>
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40"/><br/>
+      <b>NumPy</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### ⛓️ Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45"/><br/>
+      <b>Solidity</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" height="40"/><br/>
+      <b>Ethereum</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" height="40"/><br/>
+      <b>Web3.js</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker" width="45"/><br/>
+      <b>Docker</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=aws" width="45"/><br/>
+      <b>AWS</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="45"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux" width="45"/><br/>
+      <b>Linux</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="45"/><br/>
+      <b>Postman</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
