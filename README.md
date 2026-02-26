@@ -335,11 +335,12 @@ Symptom analysis, disease prediction & treatment recommendations via ML models.
 </td>
 <td width="50%" valign="top">
 
-### 🏠 Project Homigo
-IoT smart home management with real-time device control & automation.
+### 🏠 Homigo
+Full-stack stay booking & property listing platform with map-based location viewing, booking approval workflow & reviews.
 
-`Node.js` `EJS` `MongoDB`
+`Node.js` `Express` `MongoDB` `EJS` `Mapbox` `Cloudinary`
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://project-homigo-fcsq.onrender.com/listings)
 [![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Project_Homigo)
 
 </td>
