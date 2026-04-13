@@ -345,6 +345,43 @@ Full-stack stay booking & property listing platform with map-based location view
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ CQL — CSV Query Language
+Compiler-based system that translates SQL-like queries into executable Python code — query any CSV file without a database, through lexing, parsing, semantic analysis & code generation.
+
+`Python` `Compiler Design` `AST` `Code Generation`
+
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/CQL--CSV-retriever)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Echo MRI Translation
+Deep learning pipeline for cross-modal medical image translation between MRI sequences, enabling enhanced diagnostic imaging without additional scans.
+
+`Python` `PyTorch` `Deep Learning` `Medical Imaging`
+
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Echo-MRI-Translation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 InvisiQ — The Invisible Queue
+AI-powered virtual queue system for college admin offices. Students join live queues via QR code — no app, no account. Five autonomous AI monitors handle fraud detection, congestion prediction & real-time routing.
+
+`React` `Node.js` `Firebase` `Socket.io` `Gemini AI`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://invisi-q.vercel.app)
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/InvisiQ)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 </div>
 
