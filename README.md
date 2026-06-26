@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Rawat&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%2FML%20Engineer%20·%20Web3&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Rawat&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Full-Stack%20Developer%20·%20LLM%20%26%20Agentic%20Systems&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Microsoft+SEFA+2025+%F0%9F%8F%86;Building+Scalable+Full-Stack+Apps;Exploring+AI%2FML+%26+Web3;B.Tech+CSE+@+GEHU+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Microsoft+SEFA+2025+%F0%9F%8F%86;Building+AI-Powered+Products;LLMs+·+AI+Agents+·+RAG+Pipelines;B.Tech+CSE+@+GEHU+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,20 +25,20 @@
 🎓 &nbsp;**B.Tech CSE** at Graphic Era Hill University *(2027)*
 🏆 &nbsp;**Microsoft SEFA 2025** — Emerging Software Engineering Talent
 🌍 &nbsp;Based in **India**, building for the world
-🚀 &nbsp;Passionate about **Full-Stack**, **AI/ML** & **Web3**
-💡 &nbsp;Love turning complex problems into elegant solutions
+🤖 &nbsp;Specializing in **AI Engineering**, **Full-Stack Development** & **Agentic Systems**
+💡 &nbsp;Focused on shipping intelligent products that solve real problems
 
 <br/>
 
 **Currently working on:**
-- 🔨 &nbsp;Scalable real-time web applications
-- 🤖 &nbsp;ML-powered intelligent systems
-- ⛓️ &nbsp;Decentralized Web3 integrations
+- 🔨 &nbsp;Production-grade fullstack applications
+- 🤖 &nbsp;Agentic AI systems with LangChain & Gemini
+- 🧠 &nbsp;RAG pipelines and LLM integrations
 
 <br/>
 
 **When I'm not coding:**
-- 📖 &nbsp;Reading about emerging tech & AI research
+- 📖 &nbsp;Reading about AI research & emerging tech
 - 🎯 &nbsp;Solving DSA problems on LeetCode
 - ☕ &nbsp;Fuelled by coffee & curiosity
 
@@ -177,45 +177,24 @@
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/>
-      <b>TensorFlow</b>
-    </td>
-    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br/>
       <b>PyTorch</b>
     </td>
     <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/>
+      <b>TensorFlow</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="40"/><br/>
+      <b>LangChain</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white" height="40"/><br/>
+      <b>Gemini AI</b>
+    </td>
+    <td align="center" width="130">
       <img src="https://img.shields.io/badge/Scikit-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40"/><br/>
       <b>Scikit-learn</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/><br/>
-      <b>Pandas</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40"/><br/>
-      <b>NumPy</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### ⛓️ Web3
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45"/><br/>
-      <b>Solidity</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" height="40"/><br/>
-      <b>Ethereum</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" height="40"/><br/>
-      <b>Web3.js</b>
     </td>
   </tr>
 </table>
@@ -280,23 +259,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 ConvoX Meet
-WebRTC video conferencing with live chat, screen sharing & secure P2P connections.
+### 🔮 InvisiQ — The Invisible Queue
+AI-powered virtual queue management system. Students join live queues via QR code — no app, no account. Five autonomous AI monitors handle fraud detection, congestion prediction & real-time routing.
 
-`React` `Node.js` `WebRTC` `Socket.io`
+`React` `Node.js` `Firebase` `Socket.io` `Gemini AI`
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://convox-meetfrontend.onrender.com/)
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Convox-Meet)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://invisi-q.vercel.app)
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/InvisiQ)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Smart Task Manager
-ML-powered system monitor with real-time threat detection & security insights.
+### 🧠 Echo MRI Translation
+CycleGAN-based deep learning pipeline for cross-modal cardiac image translation — MRI-like visuals from echocardiography without paired datasets.
 
-`Python` `Flask` `Scikit-learn`
+`Python` `PyTorch` `GANs` `Medical Imaging`
 
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Smart-Task-Manager)
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Echo-MRI-Translation)
 
 </td>
 </tr>
@@ -304,44 +283,22 @@ ML-powered system monitor with real-time threat detection & security insights.
 <td width="50%" valign="top">
 
 ### 🔗 SkillSync
-Skill-based professional networking with smart matchmaking & real-time messaging.
+Skill-based student networking platform with smart matchmaking, role-based access control & real-time messaging.
 
-`TypeScript` `Node.js` `PostgreSQL`
+`TypeScript` `React` `Node.js` `PostgreSQL` `Supabase`
 
 [![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/SkillSync-Networking-Platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Finova Trading
-Real-time trading platform with live market data, portfolio management & analytics.
+### 🎥 ConvoX Meet
+WebRTC-based video conferencing with live chat, screen sharing & secure P2P connections.
 
-`React` `Node.js` `WebSocket` `MongoDB`
+`React` `Node.js` `WebRTC` `Socket.io`
 
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Finova-Trading-Platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 AI Health Assistant
-Symptom analysis, disease prediction & treatment recommendations via ML models.
-
-`Python` `TensorFlow` `Flask`
-
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/AI-Health-Assistant)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Homigo
-Full-stack stay booking & property listing platform with map-based location viewing, booking approval workflow & reviews.
-
-`Node.js` `Express` `MongoDB` `EJS` `Mapbox` `Cloudinary`
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://project-homigo-fcsq.onrender.com/listings)
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Project_Homigo)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://convox-meetfrontend.onrender.com/)
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Convox-Meet)
 
 </td>
 </tr>
@@ -358,28 +315,14 @@ Compiler-based system that translates SQL-like queries into executable Python co
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Echo MRI Translation
-Deep learning pipeline for cross-modal medical image translation between MRI sequences, enabling enhanced diagnostic imaging without additional scans.
+### 🏠 Homigo
+Full-stack stay booking & property listing platform with map-based location viewing, booking approval workflow & reviews.
 
-`Python` `PyTorch` `Deep Learning` `Medical Imaging`
+`Node.js` `Express` `MongoDB` `EJS` `Mapbox` `Cloudinary`
 
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Echo-MRI-Translation)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://project-homigo-fcsq.onrender.com/listings)
+[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/Project_Homigo)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 InvisiQ — The Invisible Queue
-AI-powered virtual queue system for college admin offices. Students join live queues via QR code — no app, no account. Five autonomous AI monitors handle fraud detection, congestion prediction & real-time routing.
-
-`React` `Node.js` `Firebase` `Socket.io` `Gemini AI`
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-a78bfa?style=flat-square)](https://invisi-q.vercel.app)
-[![Repo](https://img.shields.io/badge/💻_Code-7c3aed?style=flat-square)](https://github.com/devanshrawat27/InvisiQ)
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -400,7 +343,7 @@ AI-powered virtual queue system for college admin offices. Students join live qu
 
 <div align="center">
 
-### 💼 Open to Full-Stack · AI/ML · Web3 Roles & Collaborations
+### 💼 Open to AI Engineering · Full-Stack · Internship Opportunities
 
 [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-a78bfa?style=for-the-badge)](https://portfolio-xi-lilac-39.vercel.app)
 [![Email](https://img.shields.io/badge/📧_devanshdevr@gmail.com-EA4335?style=for-the-badge)](mailto:devanshdevr@gmail.com)
