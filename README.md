@@ -22,15 +22,24 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-🎓 &nbsp;**B.Tech CSE** at Graphic Era Hill University *(2027)* — Pre-Final Year
-🌍 &nbsp;Based in **India**, building for the world
+I'm **Devansh Rawat**, a fourth-year Computer Science student passionate about building AI-powered software that solves real-world problems.
 
-<br/>
+I enjoy taking ideas from **0 → 1** — designing, building, deploying, and continuously improving products. My primary interests lie at the intersection of **AI Engineering**, **Agentic Systems**, and **Scalable Full-Stack Development**.
 
-**What I work on:**
-- 🤖 &nbsp;AI Engineering — LLMs, AI Agents, RAG pipelines
-- 🔨 &nbsp;Full-Stack Development — React, Next.js, Node.js
-- 🧠 &nbsp;Agentic AI systems with LangChain & Gemini
+### 🚀 What I'm building
+
+- 🤖 AI applications powered by **LLMs**, **RAG**, and **AI Agents**
+- ⚡ Full-stack products with **React**, **Next.js**, **Node.js**, and **FastAPI**
+- 🧠 Intelligent automation and developer tools
+- ☁️ Production-ready APIs, backend systems, and cloud-native applications
+
+### 🌱 Currently Exploring
+
+- Multi-Agent Systems
+- MCP (Model Context Protocol)
+- AI SDKs & Agent Frameworks
+- Advanced RAG Pipelines
+- Distributed Systems & Backend Architecture
 
 <br clear="right"/>
 
