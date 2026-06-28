@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Rawat&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%2FML%20Engineer%20%20&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devansh%20Rawat&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Full-Stack%20Developer%20·%20LLM%20&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Microsoft+SEFA+2025+%F0%9F%8F%86;Building+Scalable+Full-Stack+Apps;AI%2FML+;B.Tech+CSE+@+GEHU+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Microsoft+SEFA+2025+%F0%9F%8F%86;Building+AI-Powered+Products;LLMs+%C2%B7+AI+Agents+%C2%B7+RAG+Pipelines;B.Tech+CSE+%40+GEHU+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,24 +23,14 @@
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 🎓 &nbsp;**B.Tech CSE** at Graphic Era Hill University *(2027)* — Pre-Final Year
-🏆 &nbsp;**Microsoft SEFA 2025** — Emerging Software Engineering Talent
 🌍 &nbsp;Based in **India**, building for the world
-🤖 &nbsp;Specializing in **AI Engineering** & **Full-Stack Development**
-💡 &nbsp;Building intelligent products that solve real problems
 
 <br/>
 
-**Currently working on:**
-- 🤖 &nbsp;Agentic AI systems with LangChain & Gemini
-- 🧠 &nbsp;RAG pipelines and LLM integrations
-- 🔨 &nbsp;Production-grade fullstack applications
-
-<br/>
-
-**When I'm not coding:**
-- 📖 &nbsp;Reading about AI research & emerging tech
-- 🎯 &nbsp;Solving DSA problems on LeetCode
-- ☕ &nbsp;Fuelled by coffee & curiosity
+**What I work on:**
+- 🤖 &nbsp;AI Engineering — LLMs, AI Agents, RAG pipelines
+- 🔨 &nbsp;Full-Stack Development — React, Next.js, Node.js
+- 🧠 &nbsp;Agentic AI systems with LangChain & Gemini
 
 <br clear="right"/>
 
