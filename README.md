@@ -190,31 +190,6 @@ An ML-based health-information project exploring symptom analysis and disease-pr
 </table>
 
 More projects are available in my [GitHub repositories](https://github.com/devanshrawat27?tab=repositories).
-
----
-
-## Highlights
-
-- Microsoft SEFA 2025 selection
-- All India Rank 3 in an Unstop coding challenge
-- AlgoUniversity ATF 2025: Top 8% among 2.5 lakh+ candidates
-- IBM RAG and Agentic AI Specialization
-- B.Tech Computer Science & Engineering, Graphic Era Hill University (expected 2027)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/caff33/devanshrawat27" alt="GitHub contribution chart" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
 **Open to software engineering, AI engineering, and full-stack opportunities.**
 
 </div>
