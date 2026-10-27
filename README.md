@@ -2,11 +2,11 @@
 
 # Devansh Rawat
 
-**Software Engineer · AI Engineering · Full-Stack Development**
+**Agentic AI Engineer · Full-Stack Developer**
 
-Building reliable software, AI-assisted workflows, and products that solve practical problems.
+Building reliable software, agentic workflows, and products that solve practical problems.
 
-[Portfolio](https://portfolio-xi-lilac-39.vercel.app) · [LinkedIn](https://linkedin.com/in/devansh-rawat-170649268) · [LeetCode](https://leetcode.com/u/devanshrwat/) · [Codolio](https://codolio.com/profile/devanshr) · [Email](mailto:devanshdevr@gmail.com)
+<a href="https://portfolio-xi-lilac-39.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/devansh-rawat-170649268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://leetcode.com/u/devanshrwat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> <a href="https://codolio.com/profile/devanshr"><img src="https://img.shields.io/badge/Codolio-4A90E2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a> <a href="mailto:devanshdevr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -14,11 +14,11 @@ Building reliable software, AI-assisted workflows, and products that solve pract
 
 ## About Me
 
-I'm a Computer Science and Engineering student at **Graphic Era Hill University** (expected 2027) and an **SDE Intern at Crux Sphere Technologies**. I enjoy taking ideas from prototype to product: building clear user experiences, reliable APIs, backend systems, and AI-powered workflows.
+I'm a Computer Science student at **Graphic Era Hill University** (expected 2027) and an **SDE Intern at Crux Sphere Technologies**. I like taking ideas from prototype to product: clear interfaces, reliable APIs, backend systems, and agent-based workflows.
 
-- **AI engineering:** LLM applications, RAG, knowledge graphs, and agentic workflows
-- **Full-stack development:** React, Next.js, TypeScript, Node.js, and API design
-- **Backend systems:** NestJS, PostgreSQL, Prisma, MongoDB, and Redis
+- **Agentic AI:** LLM applications, RAG, knowledge graphs, and multi-agent workflows
+- **Full-stack:** React, Next.js, TypeScript, Node.js, and API design
+- **Backend:** NestJS, PostgreSQL, Prisma, MongoDB, and Redis
 - **Currently exploring:** Multi-agent systems, MCP, advanced RAG, and distributed systems
 
 ---
@@ -27,49 +27,58 @@ I'm a Computer Science and Engineering student at **Graphic Era Hill University*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,redux,html,css,nodejs,express,nestjs,fastapi,flask,graphql,mongodb,postgres,mysql,redis,firebase,prisma,tensorflow,pytorch,sklearn,docker,aws,git,linux,vscode,postman&perline=9" alt="TypeScript, JavaScript, Python, Java, C++, C, React, Next.js, Tailwind CSS, Redux, HTML, CSS, Node.js, Express, NestJS, FastAPI, Flask, GraphQL, MongoDB, PostgreSQL, MySQL, Redis, Firebase, Prisma, TensorFlow, PyTorch, scikit-learn, Docker, AWS, Git, Linux, VS Code, Postman" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,react,nextjs,tailwind,redux,html,css,nodejs,express,nestjs,fastapi,flask,graphql,mongodb,postgres,mysql,redis,firebase,prisma,tensorflow,pytorch,sklearn,docker,aws,git,linux,vscode,postman&perline=9" alt="Tech stack" />
 
 </div>
 
 ---
 
-## Featured Projects
+## Projects
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-**🟢 Proofline — Evidence-First Supplier Resolution**
+**RelayCheck**
 
-A supplier discrepancy management product for procurement and operations teams. Proofline helps compare purchase orders, receiving records, and supplier invoices; surface mismatches with supporting evidence; and manage each case through a traceable resolution workflow.
+Checks whether a webhook system behaves correctly when the same event is delivered more than once. Test scenarios run through a queue, and a dashboard shows the evidence for every run.
 
-**Stack**
+**Stack:** NestJS · Next.js · TypeScript · PostgreSQL · Prisma · RabbitMQ · Docker
 
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+[Demo](https://YOUR-YOUTUBE-LINK) · [API](https://github.com/devanshrawat27/relaycheck-api) · [Runner](https://github.com/devanshrawat27/relaycheck-runner) · [Receiver](https://github.com/devanshrawat27/relaycheck-demo-receiver) · [Dashboard](https://github.com/devanshrawat27/relaycheck-web)
+
+</td>
+<td width="50%" valign="top">
+
+**Proofline**
+
+Helps procurement teams catch mismatches between purchase orders, receipts, and supplier invoices, and track each case until it is resolved.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · NestJS · PostgreSQL · Prisma · Redis · Docker
+
+[Source](https://github.com/devanshrawat27/YOUR-PROOFLINE-REPO)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Agentic RAG with Knowledge Graph**
+**Agentic RAG with Knowledge Graph**
 
-An AI assistant designed to answer complex questions across document collections by combining vector retrieval with a knowledge graph. A multi-agent pipeline plans retrieval, connects evidence, and verifies claims before answers are returned.
+Answers questions over documents using vector search plus a knowledge graph, so every answer stays tied to its sources.
 
-**Stack**
+**Stack:** Python · FastAPI · LangGraph · Qdrant · Neo4j · PostgreSQL · Gemini · Next.js
 
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+[Source](https://github.com/devanshrawat27/YOUR-RAG-REPO)
 
 </td>
 <td width="50%" valign="top">
 
-**🔮 InvisiQ — The Invisible Queue**
+**InvisiQ**
 
-An AI-powered virtual queue system for college administration. Students join with a QR code, without installing an app or creating an account, while live updates and AI-assisted monitors support congestion prediction, fraud detection, and routing.
+Virtual queue for college offices. Students join by scanning a QR code, with no app and no account.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" /> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+**Stack:** React · Node.js · Firebase · Socket.IO · Gemini
 
 [Live Demo](https://invisi-q.vercel.app) · [Source](https://github.com/devanshrawat27/InvisiQ)
 
@@ -78,26 +87,22 @@ An AI-powered virtual queue system for college administration. Students join wit
 <tr>
 <td width="50%" valign="top">
 
-**🏥 Echo-MRI Translation**
+**Echo-MRI Translation**
 
-A deep-learning pipeline exploring cross-modal translation between MRI sequences to support medical-imaging workflows.
+Converts one MRI sequence into another using a PyTorch model.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Deep_Learning-6A5ACD?style=flat-square" alt="Deep Learning" />
+**Stack:** Python · PyTorch
 
 [Source](https://github.com/devanshrawat27/Echo-MRI-Translation)
 
 </td>
 <td width="50%" valign="top">
 
-**🎥 ConvoX Meet**
+**ConvoX Meet**
 
-A browser-based video-conferencing app with real-time chat, screen sharing, and peer-to-peer media connections.
+Video calls in the browser with chat and screen sharing.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+**Stack:** React · Node.js · WebRTC · Socket.IO
 
 [Live Demo](https://convox-meetfrontend.onrender.com/) · [Source](https://github.com/devanshrawat27/Convox-Meet)
 
@@ -106,26 +111,22 @@ A browser-based video-conferencing app with real-time chat, screen sharing, and 
 <tr>
 <td width="50%" valign="top">
 
-**🔗 SkillSync**
+**SkillSync**
 
-A professional networking platform focused on skill-based matchmaking and real-time communication.
+Networking platform that matches people by skills and lets them chat in real time.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+**Stack:** TypeScript · Node.js · PostgreSQL
 
 [Source](https://github.com/devanshrawat27/SkillSync-Networking-Platform)
 
 </td>
 <td width="50%" valign="top">
 
-**🗄️ CQL — CSV Query Language**
+**CQL**
 
-A compiler that translates SQL-like queries into executable Python for querying CSV files without a database, using lexing, parsing, semantic analysis, and code generation.
+A small compiler that turns SQL-like queries into Python, so CSV files can be queried without a database.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Compiler_Design-5C2D91?style=flat-square" alt="Compiler Design" /> <img src="https://img.shields.io/badge/AST_&_Codegen-444444?style=flat-square" alt="AST & Codegen" />
+**Stack:** Python · Compiler Design
 
 [Source](https://github.com/devanshrawat27/CQL--CSV-retriever)
 
@@ -134,26 +135,22 @@ A compiler that translates SQL-like queries into executable Python for querying 
 <tr>
 <td width="50%" valign="top">
 
-**🏠 Homigo**
+**Homigo**
 
-A stay-booking and property-listing platform with map-based location discovery, booking approval workflows, and reviews.
+Stay-booking app with map-based search, booking approvals, and reviews.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+**Stack:** Node.js · Express · MongoDB · Mapbox · Cloudinary
 
 [Live Demo](https://project-homigo-fcsq.onrender.com/listings) · [Source](https://github.com/devanshrawat27/Project_Homigo)
 
 </td>
 <td width="50%" valign="top">
 
-**💹 Finova Trading**
+**Finova Trading**
 
-A trading-platform project focused on live market data, portfolio management, and analytics.
+Trading platform with live market data and portfolio tracking.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/WebSockets-333333?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+**Stack:** React · Node.js · WebSockets · MongoDB
 
 [Source](https://github.com/devanshrawat27/Finova-Trading-Platform)
 
@@ -162,26 +159,22 @@ A trading-platform project focused on live market data, portfolio management, an
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Smart Task Manager**
+**Smart Task Manager**
 
-A machine-learning-powered system-monitoring project with threat detection and security insights.
+System monitor that uses machine learning to flag suspicious activity.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+**Stack:** Python · Flask · scikit-learn
 
 [Source](https://github.com/devanshrawat27/Smart-Task-Manager)
 
 </td>
 <td width="50%" valign="top">
 
-**🩺 AI Health Assistant**
+**AI Health Assistant**
 
-An ML-based health-information project exploring symptom analysis and disease-prediction workflows.
+Predicts likely conditions from symptoms using an ML model.
 
-**Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+**Stack:** Python · TensorFlow · Flask
 
 [Source](https://github.com/devanshrawat27/AI-Health-Assistant)
 
@@ -189,7 +182,12 @@ An ML-based health-information project exploring symptom analysis and disease-pr
 </tr>
 </table>
 
-More projects are available in my [GitHub repositories](https://github.com/devanshrawat27?tab=repositories).
-**Open to software engineering, AI engineering, and full-stack opportunities.**
+More in my [GitHub repositories](https://github.com/devanshrawat27?tab=repositories).
+
+---
+
+<div align="center">
+
+**Open to agentic AI, software engineering, and full-stack roles.**
 
 </div>
